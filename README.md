@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Anas Mohiuddin Siddiqui
 
-<!--
-**Anas-Siddiqui-z5941/Anas-Siddiqui-z5941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering student at Integral University (2023–2027)  
+📊 Aspiring Data Analyst | Data Science Enthusiast  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python
+- Pandas, NumPy
+- SQL
+- Data Analysis & EDA
+- Machine Learning (Basics)
+- Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Urban Noise Pattern Analysis via Mobile Recordings  
+- Student Performance Analysis  
+- Sales Prediction Using Machine Learning  
+
+### 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/anas-siddiqui-z5941
