@@ -31,22 +31,22 @@ Currently leveling up in:
 
 **Languages & Data**
 
-Python
-SQL
-Pandas
-NumPy
+[Python]
+[SQL]
+[Pandas]
+[NumPy]
 
 **Machine Learning**
 
-Scikit-learn
-Matplotlib
-Seaborn
+[Scikit-learn]
+[Matplotlib]
+[Seaborn]
 
 **Deployment & Tools**
 
-Streamlit
-Git
-Jupyter
+[Streamlit]
+[Git]
+[Jupyter]
 
 ---
 
