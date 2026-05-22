@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year CSE student focused on building and **shipping** machine learning systems — not just training models in notebooks, but deploying them into real applications that people can actually use.
+I'm a final-year CSE student focused on Building practical ML applications and learning deployment workflows — not just training models in notebooks, but deploying them into real applications that people can actually use.
 
 I care about the full pipeline: from raw messy data → cleaned features → trained model → deployed app.
 
