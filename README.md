@@ -52,7 +52,7 @@ Currently leveling up in:
 
 ## 🚀 Featured Projects
 
-### 🛒 [Sales Forecasting ML](https://github.com/Anas-Siddiqui-z5941/sales-forecasting-ml)
+### 🛒 [Sales Forecasting ML](https://github.com/Anas-Siddiqui-z5941/sales-forecasting-ml) — [🔗 Live Demo](https://sales-forecasting-ml-8ej5pa4rkani5fpacfwn3z.streamlit.app/)
 Retail sales prediction using Linear Regression and Random Forest. Includes full EDA, feature engineering, and model evaluation (MAE, RMSE, R²). Random Forest achieved significantly better accuracy.
 
 `Python` `Scikit-learn` `Pandas` `Seaborn` `Random Forest`
