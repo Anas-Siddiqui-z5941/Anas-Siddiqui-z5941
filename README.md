@@ -34,19 +34,19 @@ Currently leveling up in:
 [Python], 
 [SQL], 
 [Pandas], 
-[NumPy], 
+[NumPy]
 
 **Machine Learning**
 
 [Scikit-learn], 
 [Matplotlib], 
-[Seaborn], 
+[Seaborn]
 
 **Deployment & Tools**
 
 [Streamlit], 
 [Git], 
-[Jupyter], 
+[Jupyter]
 
 ---
 
