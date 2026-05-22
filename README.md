@@ -76,8 +76,9 @@ EDA project identifying key factors influencing academic outcomes — parental e
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Siddiqui-z5941&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Siddiqui-z5941&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Siddiqui-z5941&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Anas-Siddiqui-z5941&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
 ---
